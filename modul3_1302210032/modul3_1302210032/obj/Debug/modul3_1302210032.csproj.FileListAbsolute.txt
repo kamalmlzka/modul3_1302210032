@@ -1,0 +1,11 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\bin\Debug\modul3_1302210032.exe.config
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\bin\Debug\modul3_1302210032.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\bin\Debug\modul3_1302210032.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.Form1.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210032\modul3_1302210032\modul3_1302210032\obj\Debug\modul3_1302210032.pdb
